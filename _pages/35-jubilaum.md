@@ -1,5 +1,5 @@
 ---
-title: 35. Jubiläum
+title: Jubiläum der JiM
 layout: single
 permalink: /jubilee/
 classes: wide
@@ -14,7 +14,8 @@ Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und 
 
 ## Wann?
 
-## Freitag und Samstag, 8./9. August 2025
+*   Freitag und Samstag, 8./9. August 2025
+    
 
 ## Wo?
 
