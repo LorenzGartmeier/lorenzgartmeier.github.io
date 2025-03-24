@@ -4,7 +4,7 @@ layout: single
 permalink: /jubilee/
 classes: wide
 sidebar:
-  - image: /assets/images/tonne-png
+  - image: /assets/images/tonne.png
 feature_row:
   - btn_class: btn--inverse
 ---
