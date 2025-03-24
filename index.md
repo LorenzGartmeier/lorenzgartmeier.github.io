@@ -23,13 +23,13 @@ feature_row:
     url: https://jim-archiv.de/
     btn_class: btn--inverse
     btn_label: Ansehen
-  - image_path: /assets/images/nonfifki.png
-    title: Nonfiktionale
-    excerpt: Das Bergwerk beteiligt sich auch dieses Jahr wieder an der
-      Nonfiktionale, diesmal mit dem Motto "ans Licht"
-    url: https://www.nonfiktionale.de/bergwerk
+  - image_path: /assets/images/merch-alt.png
+    title: 35. Jubiläum
+    excerpt: Das wird gebührend gefeiert mit Konzerten an zwei Tagen mit fünf Bands!
+      Hier gibt's alle Infos.
+    url: /jubilee/
     btn_class: btn--inverse
-    btn_label: Details
+    btn_label: Mehr
 permalink: /
 ---
 {% include feature-row %}
