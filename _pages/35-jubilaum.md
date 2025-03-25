@@ -16,8 +16,8 @@ Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und 
 
 *   Freitag und Samstag, 8./9. August 2025
     
-
-<a target="\_blank" href="[https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjI4N25waG84Mm4xYzAwbGlwYjA5ODI3NGYgMjFjOWYxOWViOWU0NzM3ZTZiNmI0ZTRhZGQ3N2M2MmY3ODY5YjZhNWNiZGIwYWNlN2U2ZGY4YTJmMzU1Y2EzMUBn&amp;tmsrc=21c9f19eb9e4737e6b6b4e4add77c62f7869b6a5cbdb0ace7e6df8a2f355ca31%40group.calendar.google.com"><img](https://calendar.google.com/calendar/event?action=TEMPLATE&amp;tmeid=MjI4N25waG84Mm4xYzAwbGlwYjA5ODI3NGYgMjFjOWYxOWViOWU0NzM3ZTZiNmI0ZTRhZGQ3N2M2MmY3ODY5YjZhNWNiZGIwYWNlN2U2ZGY4YTJmMzU1Y2EzMUBn&amp;tmsrc=21c9f19eb9e4737e6b6b4e4add77c62f7869b6a5cbdb0ace7e6df8a2f355ca31%40group.calendar.google.com"><img) border="0" src="[https://calendar.google.com/calendar/images/ext/gc\_button1\_de.gif](https://calendar.google.com/calendar/images/ext/gc_button1_de.gif)" alt="Google Calendar"></a>
+*   [In deinen Google Kalender eintragen](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjI4N25waG84Mm4xYzAwbGlwYjA5ODI3NGYgMjFjOWYxOWViOWU0NzM3ZTZiNmI0ZTRhZGQ3N2M2MmY3ODY5YjZhNWNiZGIwYWNlN2U2ZGY4YTJmMzU1Y2EzMUBn&tmsrc=21c9f19eb9e4737e6b6b4e4add77c62f7869b6a5cbdb0ace7e6df8a2f355ca31%40group.calendar.google.com)
+    
 
 ## Wo?
 
