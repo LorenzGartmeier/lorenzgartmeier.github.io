@@ -31,12 +31,12 @@ Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und 
 
 ## Wer?
 
-*   Grundsätzlich jeder, insbesondere aber Jugendliche und Junge Erwachsene sowie alle Ehemaligen.
+*   Grundsätzlich jeder, insbesondere aber Jugendliche und Junge Erwachsene sowie alle Ehemaligen
     
 
 ## Ablauf?
 
-*   **Freitag ab ca. 20:00:** Krawallstart mit zwei Bands aus der Region
+*   **Freitag ca. 20:00:** Krawallstart mit zwei Bands aus der Region
     
 *   **Samstag ca. 15:00 - 19:00:** Familienfreundlicher Nachmittag, eine Nachmittags-Unterhaltungsband, Wiederaufleben-lassen der JiM-Historie, Vorträge von aktiven und ehemaligen Jimmies so wie offiziellen Gästen.
     
