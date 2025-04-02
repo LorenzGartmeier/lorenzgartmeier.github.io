@@ -530,6 +530,14 @@ content:
                 type: boolean
               - name: read_time
                 type: boolean
+  - name: README
+    label: README
+    type: file
+    path: README.md
+    fields:
+      - name: body
+        label: CSS Code
+        type: rich-text    
           
             
         
