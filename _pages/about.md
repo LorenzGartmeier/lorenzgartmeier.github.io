@@ -2,9 +2,11 @@
 title: Über uns
 layout: single
 permalink: /about/
-classes: wide
+classes: " "
 sidebar:
   - image: /assets/images/logo-alt.png
+toc: true
+toc_label: Table of Contents
 feature_row:
   - btn_class: btn--inverse
 ---
