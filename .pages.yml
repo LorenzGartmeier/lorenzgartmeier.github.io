@@ -205,6 +205,10 @@ content:
         type: string
         default: Table of Contents
         hidden: true
+      - name: toc_sticky
+        label: Table of Contents oben festkleben
+        type: boolean
+        default: false
       - name: feature_row
         label: feature row (nur bei Layout splash)
         description: "WICHTIG: wenn verwendet, dann muss an richtige stelle im Text folgendes: {% include feature_row %}"
