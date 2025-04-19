@@ -7,6 +7,7 @@ sidebar:
   - image: /assets/images/logo-alt.png
 toc: true
 toc_label: Table of Contents
+toc_sticky: true
 feature_row:
   - btn_class: btn--inverse
 ---
