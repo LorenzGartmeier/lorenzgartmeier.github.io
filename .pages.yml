@@ -196,6 +196,15 @@ content:
         fields:
           - name: image
             type: image
+      - name: toc
+        label: Table of contents auf der linken seite
+        type: boolean
+        default: false
+        description: nur bei Layout singel mit freier Rechter Spalte sinnvoll
+      - name: toc_label
+        type: string
+        default: Table of Contents
+        hidden: true
       - name: feature_row
         label: feature row (nur bei Layout splash)
         description: "WICHTIG: wenn verwendet, dann muss an richtige stelle im Text folgendes: {% include feature_row %}"
