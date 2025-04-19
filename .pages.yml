@@ -197,10 +197,10 @@ content:
           - name: image
             type: image
       - name: toc
-        label: Table of contents auf der linken seite
+        label: Table of contents auf der rechten Seite
         type: boolean
         default: false
-        description: nur bei Layout singel mit freier Rechter Spalte sinnvoll
+        description: nur bei Layout single mit freier Rechter Spalte sinnvoll
       - name: toc_label
         type: string
         default: Table of Contents
