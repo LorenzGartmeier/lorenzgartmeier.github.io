@@ -5,6 +5,9 @@ permalink: /imprint/
 classes: wide
 sidebar:
   - {}
+toc: false
+toc_label: Table of Contents
+toc_sticky: false
 feature_row:
   - btn_class: btn--inverse
 ---
@@ -18,7 +21,7 @@ Rosenheimerstraße 15A
 
 Eingetragen im Vereinsregister am Amtsgericht Traunstein: VR 40922
 
-Umsatzsteuer-ID: DE 131204144
+Umsatzsteuer-ID: DE226937910
 
 Postfachnummer 1137  
 83053 Kolbermoor
