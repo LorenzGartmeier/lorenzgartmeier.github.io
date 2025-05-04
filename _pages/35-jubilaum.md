@@ -1,8 +1,13 @@
 ---
-title: Jubiläum der JiM
+title: JubiläumsFESTIVAL
 layout: single
 permalink: /jubilee/
 classes: " "
+header:
+  overlay_image: /assets/images/hero.png
+  cta_label: Tickets
+  cta_url: https://tickets.jims-bergwerk.de
+excerpt: Zum 35 jährigen Bestehen der JiM
 sidebar:
   - image: /assets/images/tonne.png
 toc: false
