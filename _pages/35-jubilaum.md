@@ -11,7 +11,7 @@ header:
 excerpt: Zum 35 jährigen Bestehen der JiM
 sidebar:
   - image: /assets/images/tonne.png
-toc: false
+toc: true
 toc_label: Table of Contents
 toc_sticky: false
 feature_row:
