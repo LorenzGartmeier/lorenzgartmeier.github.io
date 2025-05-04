@@ -186,6 +186,12 @@ content:
           - name: overlay_image
             label: schön großes, breites Bild
             type: image
+          - name: cta_label
+            type: string
+            label: Text auf Button im Header
+          - name: cta_url
+            type: string
+            label: link, wo der Button hin führt
       - name: excerpt
         label: Text auf Header Bild
         type: text
