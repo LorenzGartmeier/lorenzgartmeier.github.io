@@ -17,9 +17,11 @@ toc_sticky: false
 feature_row:
   - btn_class: btn--inverse
 ---
-Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und so soll es geschehen am **8./9. August 2025! Verbreitet die frohe Kunde allerorts!** Bisher sind wir noch in der Planungsphase. Checkt von Zeit zu Zeit diese Seite ([jims-bergwerk.de/jubilee/](http://jims-bergwerk.de/jubilee/)) aus, sie wird stets auf dem neuesten Wissenstand gehalten.
+<p style="text-align: center">Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und so soll es geschehen am <strong>8./9. August 2025! Verbreitet die frohe Kunde allerorts!</strong></p><h1 style="text-align: center"><strong>8./9. August 2025</strong></h1><h1 style="text-align: center"><strong>Kulturbühne - Rosenheimer Straße 15 - Bad Aibling</strong></h1>
 
-# Was bisher bekannt ist
+<h1 style="text-align: center"><a href="https://tickets.jims-bergwerk.de/">Tickets</a></h1><p style="text-align: center">gibt es als Tagestickets für Freitag und Samstag sowie als Kombiticket für beide Tage mit ermäßigter Variante.</p>
+
+<h1 style="text-align: center"><u>Programm</u></h1><h2 style="text-align: center"><strong>Freitag - Einlass 19:00</strong></h2><h3 style="text-align: center"><a href="https://www.instagram.com/konomonokonomono/">Konomono</a> - krautrock / psychedelic</h3><h3 style="text-align: center"><a href="https://www.instagram.com/stresshotel.mutti/">Stresshotel Mutt</a>i - punk</h3>
 
 ## Wann?
 
@@ -31,14 +33,17 @@ Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und 
 ## Wo?
 
 *   Bergwerk, [Rosenheimer Straße 15A, 83043 Bad Aibling](https://www.google.de/maps/place/Bergwerk/@47.8627398,12.0116166,15z/data=!4m6!3m5!1s0x47761dccbd360d93:0x9010428efba347bd!8m2!3d47.86292!4d12.0119237!16s%2Fg%2F11b7q14rct?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D), insbesondere auf unserer Freiluftbühne im Innenhof
+    
 
 ## Was?
 
 *   Fünf Bands, kein Dach, laute Musik, gute Stimmung, kühle Getränke, alte Freunde, nostalgische Vorträge
+    
 
 ## Wer?
 
 *   Grundsätzlich jeder, insbesondere aber Jugendliche und Junge Erwachsene sowie alle Ehemaligen
+    
 
 ## Ablauf?
 
@@ -52,6 +57,7 @@ Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und 
 ## Wirds was Kosten?
 
 *   Ja, muss leider. Das Kombiticket für beide Tage wird aber sicherlich keine 30€ überschreiten. Es wird auch Einzeltickets sowie ein ermäßigtes Ticket für Jugendliche und junge Erwachsene geben. Kinder kommen Samstag Nachmittags umsonst rein.
+    
 
 ## Noch Fragen?
 
