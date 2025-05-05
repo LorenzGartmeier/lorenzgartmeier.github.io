@@ -10,7 +10,7 @@ header:
       url: https://tickets.jims-bergwerk.de
 excerpt: Zum 35 jährigen Bestehen der JiM
 sidebar:
-  - image: /assets/images/tonne.png
+  - image: /assets/images/flyer.png
 toc: true
 toc_label: Table of Contents
 toc_sticky: false
