@@ -4,7 +4,7 @@ layout: single
 permalink: /jubilee/
 classes: " "
 header:
-  overlay_image: /assets/images/Plakat_text.png
+  overlay_image: /assets/images/Plakat_text-1.png
   actions:
     - label: Tickets
       url: https://tickets.jims-bergwerk.de
