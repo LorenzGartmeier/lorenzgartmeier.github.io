@@ -23,7 +23,7 @@ feature_row:
     url: https://jim-archiv.de/
     btn_class: btn--inverse
     btn_label: Ansehen
-  - image_path: /assets/images/merch-alt.png
+  - image_path: /assets/images/Plakat_text.png
     title: 35. Jubiläum
     excerpt: Das wird gebührend gefeiert mit Konzerten an zwei Tagen mit fünf Bands!
       Hier gibt's alle Infos.
