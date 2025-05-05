@@ -23,9 +23,19 @@ toc_sticky: false
 *   Menschen mit Geflüchtetenstatus können folgende Dokumente vorgelegen: Ankunftsnachweis, Aufenthaltsgestattung, Duldung, Aufenthaltserlaubnis
     
 
+## Gibts auch eine Ermäßigte Variante der Tagestickets?
+
+*   Nein.
+    
+
 ## Ich habe bezahlt - warum habe ich meine Tickets noch nicht?
 
 *   Wenn du das Geld überwiesen hast, müssen wir erst unseren Kontoeingang prüfen und anschließend die Bestellung im Ticketsystem als bezahlt markieren - manuell. Wir nehmen uns vor, dies einmal täglich zu tun. Sollte es also deutlich länger als einen Tag dauern, beschweren Sie sich bei [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de)
+    
+
+## Gibt es eine Abendkasse?
+
+*   Ja. Kontingent hängt davon ab, wie groß die Nachfrage nach Tickets im Vorverkauf ist, aber definitiv ja.
     
 
 ## Noch offene Fragen?
