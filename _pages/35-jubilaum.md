@@ -2,7 +2,7 @@
 title: JubiläumsFESTIVAL
 layout: single
 permalink: /jubilee/
-classes: " "
+classes: wide
 header:
   overlay_image: /assets/images/Plakat_text-1.png
   actions:
@@ -11,7 +11,7 @@ header:
 excerpt: Zum 35 jährigen Bestehen der JiM
 sidebar:
   - image: /assets/images/flyer.png
-toc: true
+toc: false
 toc_label: Table of Contents
 toc_sticky: false
 feature_row:
