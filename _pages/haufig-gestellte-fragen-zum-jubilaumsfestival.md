@@ -33,6 +33,13 @@ toc_sticky: false
 *   Wenn du das Geld überwiesen hast, müssen wir erst unseren Kontoeingang prüfen und anschließend die Bestellung im Ticketsystem als bezahlt markieren - manuell. Wir nehmen uns vor, dies einmal täglich zu tun. Sollte es also deutlich länger als einen Tag dauern, beschweren Sie sich bei [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de)
     
 
+## Ich bin unter 18 und will länger als 24:00 bleiben - was muss ich tun?
+
+*   erste Möglichkeit: du hast eine erziehungsberechigte Person für die ganze Zeit deines Aufenthalts dabei.
+    
+*   zweite Möglichkeit: du füllst einen "Muttizettel" aus und hast die darin festgehaltene, volljährige Aufsichtsperson für die ganze Zeit deines Aufenthalts dabei.
+    
+
 ## Gibt es eine Abendkasse?
 
 *   Ja. Kontingent hängt davon ab, wie groß die Nachfrage nach Tickets im Vorverkauf ist, aber definitiv ja.
