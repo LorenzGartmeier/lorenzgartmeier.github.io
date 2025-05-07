@@ -45,6 +45,11 @@ toc_sticky: false
 *   Ja. Kontingent hängt davon ab, wie groß die Nachfrage nach Tickets im Vorverkauf ist, aber definitiv ja.
     
 
+## Wie kann ich helfen?
+
+*   Noch gibt es keine Helferliste. Schreib uns gern an [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de), dann lassen wir es dich wissen, sobald es eine gibt. Helfer zahlen selbstverständlich keinen Eintritt und bekommen Freigetränke.
+    
+
 ## Noch offene Fragen?
 
 *   am Besten eine Email an [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de), weitere Kontaktmöglichkeiten findest du [hier](https://jims-bergwerk.de/contact/)
