@@ -4,7 +4,7 @@ layout: single
 permalink: /jubilee/
 classes: wide
 header:
-  overlay_image: /assets/images/Plakat_text-1.png
+  overlay_image: /assets/images/0525_Festival_Insta_Story_10_leer.jpg
   actions:
     - label: Tickets
       url: https://tickets.jims-bergwerk.de
