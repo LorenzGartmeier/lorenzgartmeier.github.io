@@ -24,7 +24,7 @@ Eingetragen im Vereinsregister am Amtsgericht Traunstein: VR 40922
 Umsatzsteuer-ID: DE226937910
 
 Postfachnummer 1137  
-83053 Kolbermoor
+83059 Kolbermoor
 
 Telefonnummer: +49 176 83259147  
 E-mail: [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de)
