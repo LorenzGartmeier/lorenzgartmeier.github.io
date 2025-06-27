@@ -14,13 +14,28 @@ toc_sticky: false
 *   Du willst mehrere Tickets für dich und deine Freunde/Familie kaufen? Kein Problem. Die Tickets sind nicht personalisiert und daher auf jede Person übertrag- und anwendbar. Ein ermäßigtes Ticket ist aber verständlicherweise nicht auf eine Person übertragbar, der keine Ermäßigung zusteht.
     
 
+## Wer kommt mit einem ermäßigten Ticket (und entsprechendem Nachweis!) rein?
+
+*   Schüler
+    
+*   Minderjähre
+    
+*   Azubis
+    
+*   Studierende
+    
+*   Menschen mit schwerer Behinderung
+    
+*   Menschen mit Geflüchtetenstatus
+    
+
 ## Was zählt als Nachweis für mein ermäßigtes Ticket?
 
 *   Es zählen unter Anderem Personal- , Schüler- , Studenten- , Behindertenausweise, Reisepässe, Führerscheine.
     
 *   Auszubildende legen am Besten den Schülerausweis ihrer Berufsschule vor, ansonsten tuts auch eine Kopie des Ausbildungsvertrages oder ein Zeugnis der Berufsschule / des auszubildenden Betriebs.
     
-*   Menschen mit Geflüchtetenstatus können folgende Dokumente vorgelegen: Ankunftsnachweis, Aufenthaltsgestattung, Duldung, Aufenthaltserlaubnis
+*   Menschen mit Geflüchtetenstatus können folgende Dokumente vorlegen: Ankunftsnachweis, Aufenthaltsgestattung, Duldung, Aufenthaltserlaubnis
     
 
 ## Gibts auch eine Ermäßigte Variante der Tagestickets?
@@ -43,6 +58,11 @@ toc_sticky: false
 ## Gibt es eine Abendkasse?
 
 *   Ja. Kontingent hängt davon ab, wie groß die Nachfrage nach Tickets im Vorverkauf ist, aber definitiv ja.
+    
+
+## Kann man vor Ort mit Karte zahlen?
+
+*   Nein, nur Bargeld. Den Aufwand mit registriertem Kassensystem wollten wir uns nicht antun, offene Ladenkasse regelt.
     
 
 ## Wie kann ich helfen?
