@@ -13,7 +13,7 @@ feature_row:
 ---
 ## Wer ist Jim, und warum hat er ein Bergwerk?
 
-JIM ist die Jugendinitiative Mangfalltal e.V.. Sie wurde 1990 gegründet, mit dem Ziel einen unabhängigen Jugendtreff zu betreiben. Hierfür erhielt sie von der Stadt Bad Aibling den offiziellen Auftrag, offene Jugendarbeit zu leisten. Nachdem sie 18 Jahre lang das „Stellwerk“ am Aiblinger Bahnhof betrieben hat, ist die JIM 2011 in das „Bergwerk“ am Kellerberg umgezogen. Die Organisation und Verwaltung des Vereins und des „Bergwerks“ obliegt den Mitgliedern, auch wenn die Hauptverantwortung der jährlich neu gewählte Vorstand trägt. So haben die Mitglieder hier die Möglichkeit Veranstaltungen wie Thekenabende oder Konzerte zu organisieren, das Haus nach ihren Vorstellungen zu gestalten und Erfahrungen zu sammeln, die sie ihr ganzes Leben lang prägen werden.
+JIM ist die Jugendinitiative Mangfalltal JIM e.V.. Sie wurde 1990 gegründet, mit dem Ziel einen unabhängigen Jugendtreff zu betreiben. Hierfür erhielt sie von der Stadt Bad Aibling den offiziellen Auftrag, offene Jugendarbeit zu leisten. Nachdem sie 18 Jahre lang das „Stellwerk“ am Aiblinger Bahnhof betrieben hat, ist die JIM 2011 in das „Bergwerk“ am Kellerberg umgezogen. Die Organisation und Verwaltung des Vereins und des „Bergwerks“ obliegt den Mitgliedern, auch wenn die Hauptverantwortung der jährlich neu gewählte Vorstand trägt. So haben die Mitglieder hier die Möglichkeit Veranstaltungen wie Thekenabende oder Konzerte zu organisieren, das Haus nach ihren Vorstellungen zu gestalten und Erfahrungen zu sammeln, die sie ihr ganzes Leben lang prägen werden.
 
 ## Darf ich auch ins Bergwerk?
 
