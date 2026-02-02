@@ -15,26 +15,25 @@ feature_row:
 
 Angaben gemäß § 5 TMG
 
-Jugendinitiative Mangfalltal e.V.  
+Jugendinitiative Mangfalltal JIM e.V.  
 Rosenheimerstraße 15A  
 83043 Bad Aibling
 
-Eingetragen im Vereinsregister am Amtsgericht Traunstein: VR 40922
+Eingetragen im Vereinsregister am Amtsgericht Traunstein:
+
+VR 40922
 
 Umsatzsteuer-ID: DE226937910
 
 Postfachnummer 1137  
 83059 Kolbermoor
 
-Telefonnummer: +49 176 83259147  
+Telefonnummer: +49 1796045177  
 E-mail: [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de)
 
 Vertreten durch:  
-Marinus Halbig  
-Anton-Fahrner-Straße 14B  
-83059 Kolbermoor  
-Telefonnummer: +49 176 83259147  
-E-mail: [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de)
+Lorenz Gartmeier, 1. Vorsitz  
+Elisabeth Gareis, 2. Vorsitz
 
 # Haftungsausschluss:
 
