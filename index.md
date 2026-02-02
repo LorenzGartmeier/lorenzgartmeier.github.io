@@ -23,13 +23,13 @@ feature_row:
     url: https://jim-archiv.de/
     btn_class: btn--inverse
     btn_label: Ansehen
-  - image_path: /assets/images/Plakat_text.png
-    title: 35. Jubiläum
-    excerpt: Das wird gebührend gefeiert mit Konzerten an zwei Tagen mit fünf Bands!
-      Hier gibt's alle Infos.
-    url: /jubilee/
+  - image_path: /assets/images/gruppe-qr.jpg
+    title: Komm in die Gruppe!
+    excerpt: Hier landen Infos über Öffnungszeiten, Veranstaltungen und sonstige
+      aktuelle Dinge.
+    url: https://chat.whatsapp.com/HxpSlNioMKKI5EHz4FO4rr
     btn_class: btn--inverse
-    btn_label: Mehr
+    btn_label: Gruppe beitreten
 permalink: /
 ---
 {% include feature-row %}
