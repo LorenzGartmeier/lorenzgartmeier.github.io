@@ -23,7 +23,7 @@ feature_row:
     url: https://jim-archiv.de/
     btn_class: btn--inverse
     btn_label: Ansehen
-  - image_path: /assets/images/gruppe-qr.jpg
+  - image_path: /assets/images/whatsapp-qr-klein.png
     title: Komm in die Gruppe!
     excerpt: Hier landen Infos über Öffnungszeiten, Veranstaltungen und sonstige
       aktuelle Dinge.
