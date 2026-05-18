@@ -23,14 +23,18 @@ Rosenheimerstraße 15A
 
 Eingetragen im Vereinsregister am Amtsgericht Traunstein: VR 40922
 
-Post bitte an Postfachnummer 1137
+Post bitte an Postfachnummer 1137  
 83059 Kolbermoor
+
+Ust-ID: DE226937910
 
 Bankinformationen:  
 Empfänger: Jugendinitiative Mangfalltal e.V.  
 Kreditinstitut: meine Volksbank Raiffeisenbank eG  
 BIC: GENODEF1VRR  
-IBAN: DE91 7116 0000 0000 0460 43  
+IBAN: DE91 7116 0000 0000 0460 43
+
+  
 Vertreten durch:  Lorenz Gartmeier  
 Telefonnummer: +49 1796045177  
 E-mail: [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de) 
