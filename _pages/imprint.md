@@ -25,6 +25,10 @@ Post bitte an Postfachnummer 1137
 
 
 
+Ust-ID: DE226937910
+
+
+
 Bankinformationen: 
 
 Empfänger: Jugendinitiative Mangfalltal e.V.
@@ -44,7 +48,6 @@ Lorenz Gartmeier
 Telefonnummer: +49 1796045177
 
 E-mail: [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de)  
-
 
 # Haftungsausschluss:
 
