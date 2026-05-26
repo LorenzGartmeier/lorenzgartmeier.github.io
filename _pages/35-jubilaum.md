@@ -8,8 +8,6 @@ header:
   actions:
     - label: Tickets
       url: https://tickets.jims-bergwerk.de
-    - label: nach about
-      url: /about/
 excerpt: Zum 35 jährigen Bestehen der JiM
 sidebar:
   - image: /assets/images/flyer.png
