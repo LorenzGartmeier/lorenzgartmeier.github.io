@@ -5,49 +5,41 @@ permalink: /imprint/
 classes: wide
 sidebar:
   - {}
+toc: false
+toc_label: Table of Contents
+toc_sticky: false
 feature_row:
   - btn_class: btn--inverse
 ---
-# Impressum
+## Impressum
 
 Angaben gemäß § 5 TMG
 
 Jugendinitiative Mangfalltal JIM e.V.  
+Göttinger Straße 9   
+84043 Bad Aibling
+
+Betreibt den Jugentreff "Bergwerk"
 Rosenheimerstraße 15A  
 83043 Bad Aibling
 
 Eingetragen im Vereinsregister am Amtsgericht Traunstein: VR 40922
 
-
-
 Post bitte an Postfachnummer 1137  
 83059 Kolbermoor
 
-
-
 Ust-ID: DE226937910
 
-
-
-Bankinformationen: 
-
-Empfänger: Jugendinitiative Mangfalltal e.V.
-
-Kreditinstitut: meine Volksbank Raiffeisenbank eG
-
-BIC: GENODEF1VRR
-
-IBAN: DE91 7116 0000 **0000 0460 43**
-
-
+Bankinformationen:  
+Empfänger: Jugendinitiative Mangfalltal e.V.  
+Kreditinstitut: meine Volksbank Raiffeisenbank eG  
+BIC: GENODEF1VRR  
+IBAN: DE91 7116 0000 0000 0460 43
 
 Vertreten durch:  
-
-Lorenz Gartmeier
-
-Telefonnummer: +49 1796045177
-
-E-mail: [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de)  
+Lorenz Gartmeier und Elisabeth Gareis   
+Telefonnummer: +49 1796045177  
+E-Mail: [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de) 
 
 # Haftungsausschluss:
 
@@ -65,4 +57,4 @@ Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unt
 
 ## Datenschutz
 
-Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfo lgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.

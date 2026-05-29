@@ -1,53 +1,60 @@
 ---
-title: Jubiläum der JiM
+title: JubiläumsFESTIVAL
 layout: single
 permalink: /jubilee/
 classes: wide
+header:
+  overlay_image: /assets/images/0525_Festival_Insta_Story_10_leer.jpg
+  actions:
+    - label: Tickets
+      url: https://tickets.jims-bergwerk.de
+excerpt: Zum 35 jährigen Bestehen der JiM
 sidebar:
-  - image: /assets/images/tonne.png
+  - image: /assets/images/flyer.png
+toc: false
+toc_label: Table of Contents
+toc_sticky: false
 feature_row:
   - btn_class: btn--inverse
 ---
-Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und so soll es geschehen am **8./9. August 2025! Verbreitet die frohe Kunde allerorts!** Bisher sind wir noch in der Planungsphase. Checkt von Zeit zu Zeit diese Seite ([jims-bergwerk.de/jubilee/](http://jims-bergwerk.de/jubilee/)) aus, sie wird stets auf dem neuesten Wissenstand gehalten.
+Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und so soll es geschehen am **8./9. August 2025! Verbreitet die frohe Kunde allerorts!**
 
-# Was bisher bekannt ist
+# **8./9. August 2025**
 
-## Wann?
+# **Kulturbühne - Rosenheimer Straße 15 - Bad Aibling**
 
-*   Freitag und Samstag, 8./9. August 2025
-    
-*   [In deinen Google Kalender eintragen](https://calendar.google.com/calendar/event?action=TEMPLATE&tmeid=MjI4N25waG84Mm4xYzAwbGlwYjA5ODI3NGYgMjFjOWYxOWViOWU0NzM3ZTZiNmI0ZTRhZGQ3N2M2MmY3ODY5YjZhNWNiZGIwYWNlN2U2ZGY4YTJmMzU1Y2EzMUBn&tmsrc=21c9f19eb9e4737e6b6b4e4add77c62f7869b6a5cbdb0ace7e6df8a2f355ca31%40group.calendar.google.com)
-    
+**-**
 
-## Wo?
+# [Tickets](https://tickets.jims-bergwerk.de/)
 
-*   Bergwerk, [Rosenheimer Straße 15A, 83043 Bad Aibling](https://www.google.de/maps/place/Bergwerk/@47.8627398,12.0116166,15z/data=!4m6!3m5!1s0x47761dccbd360d93:0x9010428efba347bd!8m2!3d47.86292!4d12.0119237!16s%2Fg%2F11b7q14rct?entry=ttu&g_ep=EgoyMDI1MDMxOS4yIKXMDSoASAFQAw%3D%3D), insbesondere auf unserer Freiluftbühne im Innenhof
-    
+-
 
-## Was?
+# ++Programm++
 
-*   Fünf Bands, kein Dach, laute Musik, gute Stimmung, kühle Getränke, alte Freunde, nostalgische Vorträge
-    
+## **Freitag - Einlass 19:00**
 
-## Wer?
+### [Konomono](https://www.instagram.com/konomonokonomono/) - krautrock / psychedelic
 
-*   Grundsätzlich jeder, insbesondere aber Jugendliche und Junge Erwachsene sowie alle Ehemaligen
-    
+### [Stresshotel Mutti](https://www.instagram.com/stresshotel.mutti/) - punk
 
-## Ablauf?
+-
 
-*   **Freitag ca. 20:00:** Krawallstart mit zwei Bands aus der Region
-    
-*   **Samstag ca. 15:00 - 19:00:** Familienfreundlicher Nachmittag, eine Nachmittags-Unterhaltungsband, Wiederaufleben-lassen der JiM-Historie, Vorträge von aktiven und ehemaligen Jimmies so wie offiziellen Gästen.
-    
-*   **Samstag ca. 19:00:** Bei zwei Main-Acts die Sau raus lassen, bei einem DJ im Anschluss ausklingen
-    
+## **Samstag - Einlass 15:00**
 
-## Wirds was Kosten?
+### ++Familienfreundlicher Nachmittag mit++
 
-*   Ja, muss leider. Das Kombiticket für beide Tage wird aber sicherlich keine 30€ überschreiten. Es wird auch Einzeltickets sowie ein ermäßigtes Ticket für Jugendliche und junge Erwachsene geben. Kinder kommen Samstag Nachmittags umsonst rein.
-    
+### [Jazz Voyagers](https://www.instagram.com/jazzvoyagers/) - jazz
 
-## Noch Fragen?
+### Auflebenlassen der Vereinsgeschichte
 
-*   gerne an [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de) wie auch sämtliche Vorschläge, Wünsche und Anliegen aller Art
+### ++Abendprogramm mit++
+
+### [Katrin Sofie F. und der Däne](https://www.spokenbeat.de/katrin-sofie-f-und-der-d%C3%A4ne/) - punk / krautrock
+
+### [Güner Künier](https://powerline-agency.com/artists/guener-kuenier/) - post punk / synth wave
+
+### DJ After Party
+
+-
+
+[Häufig gestellte Fragen](https://jims-bergwerk.de/jubilee/faq/) - [Kontakt](https://jims-bergwerk.de/contact/)

@@ -5,6 +5,9 @@ permalink: /contact/
 classes: " "
 sidebar:
   - image: /assets/images/logo-lang.png
+toc: false
+toc_label: Table of Contents
+toc_sticky: false
 ---
 Generelle Anliegen: [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de)  
 Booking Angelegenheiten: [booking@jims-bergwerk.de](mailto:booking@jims-bergwerk.de)
@@ -15,7 +18,7 @@ Unser [Instagram Kanal](https://www.instagram.com/jims_bergwerk/) und unsere [Wh
 (QR Codes jeweils unten)
 
 Unser Jugendtreff, das Bergwerk, steht in der [Rosenheimerstraße 15A, 83043 Bad Aibling](https://maps.app.goo.gl/6sxZddo4cDtbgkyWA)  
-Unser Postfach hat die Nummer 1137 und liegt in 83053 Kolbermoor.
+Unser Postfach hat die Nummer 1137 und liegt in 83059 Kolbermoor.
 
 ![](/assets/images/jims_bergwerk_qr.png)
 

@@ -186,6 +186,17 @@ content:
           - name: overlay_image
             label: schön großes, breites Bild
             type: image
+          - name: actions
+            label: Buttons auf Header
+            type: object
+            list: true
+            fields:
+              - name: label
+                type: string
+                label: Text auf Button
+              - name: url
+                type: string
+                label: Link, wo der Button hinführt
       - name: excerpt
         label: Text auf Header Bild
         type: text
@@ -196,6 +207,19 @@ content:
         fields:
           - name: image
             type: image
+      - name: toc
+        label: Table of contents auf der rechten Seite
+        type: boolean
+        default: false
+        description: nur bei Layout single mit freier Rechter Spalte sinnvoll
+      - name: toc_label
+        type: string
+        default: Table of Contents
+        hidden: true
+      - name: toc_sticky
+        label: Table of Contents oben festkleben
+        type: boolean
+        default: false
       - name: feature_row
         label: feature row (nur bei Layout splash)
         description: "WICHTIG: wenn verwendet, dann muss an richtige stelle im Text folgendes: {% include feature_row %}"
@@ -322,6 +346,7 @@ content:
   - name: styles
     label: Styles
     type: file
+    format: code
     path: _sass/minimal-mistakes/skins/_neon.scss
     fields:
       - name: body
@@ -530,6 +555,14 @@ content:
                 type: boolean
               - name: read_time
                 type: boolean
+  - name: README
+    label: README
+    type: file
+    path: README.md
+    fields:
+      - name: body
+        label: CSS Code
+        type: rich-text    
           
             
         
