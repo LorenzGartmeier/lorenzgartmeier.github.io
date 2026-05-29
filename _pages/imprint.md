@@ -16,7 +16,7 @@ feature_row:
 Angaben gemäß § 5 TMG
 
 Jugendinitiative Mangfalltal JIM e.V.  
-Göttinger Straße 9
+Göttinger Straße 9   
 84043 Bad Aibling
 
 Betreibt den Jugentreff "Bergwerk"
