@@ -16,6 +16,8 @@ feature_row:
 Angaben gemäß § 5 TMG
 
 Jugendinitiative Mangfalltal JIM e.V.  
+Göttinger Straße 9
+84043 Bad Aibling
 
 Betreibt den Jugentreff "Bergwerk"
 Rosenheimerstraße 15A  
@@ -34,8 +36,8 @@ Kreditinstitut: meine Volksbank Raiffeisenbank eG
 BIC: GENODEF1VRR  
 IBAN: DE91 7116 0000 0000 0460 43
 
-  
-Vertreten durch:  Lorenz Gartmeier  
+Vertreten durch:  
+Lorenz Gartmeier und Elisabeth Gareis
 Telefonnummer: +49 1796045177  
 E-mail: [info@jims-bergwerk.de](mailto:info@jims-bergwerk.de) 
 
