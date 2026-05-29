@@ -346,6 +346,7 @@ content:
   - name: styles
     label: Styles
     type: file
+    format: code
     path: _sass/minimal-mistakes/skins/_neon.scss
     fields:
       - name: body
