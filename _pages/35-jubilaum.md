@@ -39,7 +39,7 @@ Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und 
 
 - 
 
-**Samstag - Einlass 15:00**
+## **Samstag - Einlass 15:00**
 
 ### ++Familienfreundlicher Nachmittag mit++
 
