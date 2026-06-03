@@ -27,7 +27,7 @@ Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und 
 
 # [Tickets](https://tickets.jims-bergwerk.de/)
 
--
+- 
 
 # ++Programm++
 
@@ -37,9 +37,9 @@ Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und 
 
 ### [Stresshotel Mutti](https://www.instagram.com/stresshotel.mutti/) - punk
 
--
+- 
 
-## **Samstag - Einlass 15:00**
+## <center>**Samstag - Einlass 15:00**</center>
 
 ### ++Familienfreundlicher Nachmittag mit++
 
@@ -55,6 +55,6 @@ Die JiM wird dieses Jahr 35 Jahre alt! Das muss gebührend gefeiert werden, und 
 
 ### DJ After Party
 
--
+- 
 
 [Häufig gestellte Fragen](https://jims-bergwerk.de/jubilee/faq/) - [Kontakt](https://jims-bergwerk.de/contact/)
